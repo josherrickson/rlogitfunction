@@ -1,4 +1,4 @@
-Package: logit
+Package: logitr
 Type: Package
 Title: Logit and Inverse Logit Functions
 Version: 0.1.0
