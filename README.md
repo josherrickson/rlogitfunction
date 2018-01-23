@@ -1,6 +1,6 @@
 # logitr
 
-This package simply adds two functions, `logit` and `invlogit`. Both are identical as the versions in `arm`. I got frustrated having to either use `arm::logit` or attaching `arm` and all it's other functions. So this will allow the use of `logit` and `invlogit` without any excess.
+This package simply adds two functions, `logit` and `invlogit`. Both are identical as the versions in `arm`. I got frustrated having to either use `arm::logit` or attaching `arm` and all it's other functions (and `plogis` and `qlogis` aren't as readable as `logit` and `invlogit`. So this will allow the use of `logit` and `invlogit` without any excess.
 
 ## Use
 
