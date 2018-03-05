@@ -19,5 +19,5 @@ library(logitr)
 or add it to your .Rprofile:
 
 ```
-suppressMessages(require(devtools))
+suppressMessages(require(logitr))
 ```
