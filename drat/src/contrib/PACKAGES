@@ -1,6 +1,0 @@
-Package: rlogitfunction
-Version: 0.1.0
-Suggests: testthat (>= 3.0.0)
-License: CC0
-MD5sum: a394243672580b013f2e43d788a526d8
-NeedsCompilation: no
